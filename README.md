@@ -1,10 +1,10 @@
 ## Custom Test Case to Python Converter
-This is a basic txt file to python snippet that conveniently converts test cases in a txt format to a usable and 
-organized Python dictionary that can easily be used for unit-testing.
+This is a python snippet that conveniently organizes test cases in a TXT format to a readable and usable Python dictionary
+that can be easily parsed and used for unit-testing. 
 
 ## Motivation
-I wanted to create this snippet to avoid writing repetitous code everytime I wanted to use test cases contained in a txt format 
-with my Python functions. 
+I wanted to create this snippet to avoid writing repetitous code everytime I wanted to use test cases contained in a TXT format 
+with my Python functions. If there were hundreds of test cases, this snippet would save me a lot of time to copy and paste over the test cases from the TXT file to my Python file. 
 
 ## Tech/framework used
 Ex. - Python
