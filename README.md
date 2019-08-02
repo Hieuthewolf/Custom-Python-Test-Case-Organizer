@@ -1,4 +1,4 @@
-## Custom Test Case to Python Converter
+## Custom Python Test Case Organizer
 This is a python snippet that conveniently organizes test cases in a TXT format to a readable and usable Python dictionary
 that can be easily parsed and used for unit-testing. 
 
