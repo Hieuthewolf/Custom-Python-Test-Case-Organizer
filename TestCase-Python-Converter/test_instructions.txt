@@ -1,0 +1,54 @@
+/* Test format should be in the following */
+
+First line --> number of test cases
+Second line --> number of parameters
+Third .... "x" line --> List out all the names of the parameters
+"x" + 1 line --> space
+
+
+/* -------------- Start of first test case  ------------------- */
+Line Progression
+1) Number of fields (i.e. test case example) for parameter 1
+2) Parameter 1
+3) Number of fields (i.e. test case example) for parameter 2
+4) Parameter 2 
+.
+.
+.
+5) Number of lines for last parameter
+6) Last parameter
+7) SPACE
+
+/* --------------------- Start of second test case  ------------------- */
+Repeat
+.
+.
+.
+.
+.
+
+EX test case in test.txt:
+- 2 test cases
+- Each test case has 6 parameters
+- Parameter 1: Age (Should be represented as: INT)
+- Parameter 2: Hobbies (Should be represented as: LIST of STR)
+- Parameter 3: School (STR)
+- Parameter 4: Over-age (BOOLEAN)
+- Parameter 5: Favorite Movies (LIST of STR)
+- Parameter 6: GPA for 4 semesters (LIST of INT)
+
+* A space will denote the start of a new test case
+
+/* -------------------------- Return --------------------------------- */
+Returns a python dictionary with test case number (INT) --> test case inputs (DICTIONARY)
+
+
+
+
+
+
+
+
+
+
+

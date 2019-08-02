@@ -1,0 +1,51 @@
+2
+6
+age
+hobbies
+school
+over-age
+favorite_movies
+gpa
+
+1
+19
+5
+Gaming
+Running
+Meming
+Eating
+Sleeping
+1
+UCI
+1
+False
+4
+Inception
+Source Code
+Bob Ross
+The Dark Knight
+4
+4.0
+3.8
+3.6
+4.0
+
+1
+26
+4
+Cooking
+Gardening
+Babysitting
+Reading
+1
+UCI
+1
+True
+2
+The Great Gatsby
+Barney
+4
+5.0
+4.8
+5.0
+4.5
